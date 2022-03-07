@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Janon, a Python Developer from Jamaica.
+## Hi, I'm Janon, a Software Developer from Jamaica.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
