@@ -1,9 +1,7 @@
 <!-- Your title -->
-## Hi, I'm Brictoni Piper, a Software Developer from Jamaica.
+<h1 align="center">Hi 👋, I'm Brictoni Piper</h1>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<h3 align="center">A passionate software developer.</h3>
 
 &nbsp;
 
