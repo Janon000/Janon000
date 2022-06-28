@@ -5,17 +5,9 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Janon000)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brictoni@gmail.com)
-
-
 &nbsp;
 
-
-**Languages and Tools:** 
-
-
-<p>
+<!-- <p>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -30,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br />
-</p>
+</p> -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://portfolio-blush-ten.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
