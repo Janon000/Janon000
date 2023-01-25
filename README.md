@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://portfolio-blush-ten.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
+  <a href="https://brictoni.xyz/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF7C1F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="30" /></a>
     <a href="mailto:brictoni@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
   <a href="https://gitlab.com/brictoni" target="_blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" height="30" /></a>
 </p>
